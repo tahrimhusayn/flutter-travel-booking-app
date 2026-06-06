@@ -1,16 +1,46 @@
-# ecommerceapp
+# ✈️ Flutter Travel Booking App
 
-A new Flutter project.
+## 📌 Project Overview
+This is a Flutter-based **Travel Booking & Tour Management Application** that allows users to explore travel destinations, view detailed tour information, manage a cart system, and complete bookings through a full checkout flow.
 
-## Getting Started
+The app also includes a modern UI with a dynamic home page, auto-changing travel quotes, and an interactive user experience.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
+- 🏠 Home page with auto-changing inspirational travel quotes
+- 🌍 Explore travel destinations and tours
+- 📄 Detailed tour information pages
+- 🛒 Add to cart functionality
+- 🧾 Cart page with:
+    - View selected tours
+    - Clear cart option
+    - Proceed to checkout
+- 💳 Checkout page with user form and order confirmation
+- 💬 Feedback system for user interaction
+- 🎨 Clean and responsive UI design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- Material UI
+
+---
+
+## 📸 Screenshots
+
+All project screenshots are available in the /Screenshots folder of this repository.
+
+---
+
+## ⭐ Future Improvements
+
+Payment gateway integration
+Firebase backend
+User authentication system
+Real-time booking system
+Improved animations and UI enhancements
+
+---
