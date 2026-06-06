@@ -37,10 +37,10 @@ All project screenshots are available in the /Screenshots folder of this reposit
 
 ## ⭐ Future Improvements
 
-Payment gateway integration
-Firebase backend
-User authentication system
-Real-time booking system
-Improved animations and UI enhancements
+- Payment gateway integration
+- Firebase backend
+- User authentication system
+- Real-time booking system
+- Improved animations and UI enhancements
 
 ---
